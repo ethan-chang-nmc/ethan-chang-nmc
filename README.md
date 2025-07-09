@@ -1,4 +1,4 @@
-## Hi, I'm Ethan 👋
+## Hi, I'm Ethan Chang👋
 - 🌱 I'm Currently a Ph.D. Neuroscience Student at Washington University in St. Louis
 - ⚡ BA Mathematics, BS Neuroscience from the University of Rochester
 - 🔭 ...
