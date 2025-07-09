@@ -1,5 +1,5 @@
 ## Hi, I'm Ethan Chang👋
-- 🌱 I'm Currently a Ph.D. Neuroscience Student at Washington University in St. Louis
+- 🌱 I'm currently a Ph.D. Neuroscience Student at Washington University in St. Louis
 - ⚡ BA Mathematics, BS Neuroscience from the University of Rochester
 - 🔭 ...
 - 📫 How to reach me: ethanc@wustl.edu
