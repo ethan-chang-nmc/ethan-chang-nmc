@@ -1,5 +1,7 @@
 ## Hi, I'm Ethan 👋
-
+- 🌱 I'm Currently a Ph.D. Neuroscience Student at Washington University in St. Louis
+- ⚡ BA Mathematics, BS Neuroscience from the University of Rochester
+- 🔭 ...
 - 📫 How to reach me: ethanc@wustl.edu
 <!--
 **ethan-chang-nmc/ethan-chang-nmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
