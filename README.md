@@ -1,4 +1,4 @@
-<h2>Hi, I'm <a href=https://ethan-chang-nmc.github.io/ target="blank">Ethan Chang</a>👋</h2>
+<h2>Hi, I'm <a href=https://ethan-chang-nmc.github.io/ target="_blank">Ethan Chang</a>👋</h2>
 - 🌱 I'm currently a Ph.D. Neuroscience Student at Washington University in St. Louis
 - ⚡ BA Mathematics, BS Neuroscience from the University of Rochester
 - 🔭 Researching: Currently completing my rotations! Stay tuned...
