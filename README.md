@@ -3,6 +3,7 @@
 - ⚡ BA Mathematics, BS Neuroscience from the University of Rochester
 - 🔭 Researching: Currently completing my rotations! Stay tuned...
 - 📫 How to reach me: ethanc@wustl.edu
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 <!--
 **ethan-chang-nmc/ethan-chang-nmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
