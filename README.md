@@ -4,7 +4,7 @@
 - 🔭 Researching: Currently completing my rotations! Stay tuned...
 - 📫 How to reach me: ethanc@wustl.edu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-chang-nmc&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-chang-nmc&layout=compact&theme=transparent&hide_border=true&title_color&title_color=ffa2d8)
 <!--
 **ethan-chang-nmc/ethan-chang-nmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
