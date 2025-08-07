@@ -1,7 +1,7 @@
 <h2>Hi, I'm <a href=https://ethan-chang-nmc.github.io/>Ethan Chang</a>👋</h2>
 
-- 🐻 I'm currently a Ph.D. Neuroscience Student at Washington University in St. Louis and
-- 🔵 M.S. Applied and Computational Mathematics at Johns Hopkins University 
+- 🐻 I'm currently a Ph.D. Neuroscience Student at Washington University in St. Louis
+- 🔵 M.S. Applied and Computational Mathematics Student at Johns Hopkins University 
 - 🐝 B.A. Mathematics, B.S. Neuroscience from the University of Rochester
 - 🔭 Researching: Currently completing my rotations! Stay tuned...
 - 📫 How to reach me: ethanc@wustl.edu
