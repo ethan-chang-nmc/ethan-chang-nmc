@@ -5,8 +5,6 @@
 - 🐝 B.A. Mathematics, B.S. Neuroscience from the University of Rochester
 - 🔭 Researching: Currently completing my rotations! Stay tuned...
 - 📫 How to reach me: ethanc@wustl.edu
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-chang-nmc&layout=donut&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&card_width=300&langs_count=20)
 <!--
 **ethan-chang-nmc/ethan-chang-nmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
