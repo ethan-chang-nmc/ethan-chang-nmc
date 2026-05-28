@@ -4,7 +4,7 @@
 - 🔵 M.S. Computer Science at Johns Hopkins University 
 - 🐝 B.A. Mathematics, B.S. Neuroscience from the University of Rochester
 - 🔭 Researcher in Brain Dynamics and Control Lab and Papouin Lab
-- 📫 How to reach me: ethanc@wustl.edu
+- 📫 How to reach me: ethanchang.nmc@gmail.com
 <!--
 **ethan-chang-nmc/ethan-chang-nmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
