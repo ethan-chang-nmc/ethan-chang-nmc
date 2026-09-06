@@ -1,6 +1,6 @@
 <h2>Hi, I'm <a href=https://ethan-chang-nmc.github.io/>Ethan Chang</a>👋</h2>
 
-- 🐻 I'm currently a Ph.D. Neuroscience Student at Washington University in St. Louis
+- 🐻 I'm currently a Ph.D. Neuroscience Candidate at Washington University in St. Louis
 - 🔭 Researcher in Brain Dynamics and Control Lab and Papouin Lab
 - 🔵 M.S. Computer Science at Johns Hopkins University 
 - 🐝 B.A. Mathematics, B.S. Neuroscience from the University of Rochester
